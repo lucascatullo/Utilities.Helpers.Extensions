@@ -1,9 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <RootNamespace>Utilities.Helpers.Extensions</RootNamespace>
+	  <PackageId>LucasC1992.Utilities.Helpers.Extensions</PackageId>
+	  <PackageVersion>1.0.0</PackageVersion>
+	  <Version>1.0.0</Version>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Authors>Lucas Gabriel Catullo</Authors>
   </PropertyGroup>
 
   <ItemGroup>
